@@ -1,4 +1,4 @@
-php_uast_gen
+PHP UAST Generator
 ============
 
 PHP UAST generator
